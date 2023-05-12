@@ -1,0 +1,10 @@
+C:\Users\regan\OneDrive\Documents\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\regan\OneDrive\Documents\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\regan\OneDrive\Documents\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\regan\OneDrive\Documents\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\regan\OneDrive\Documents\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\regan\OneDrive\Documents\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\regan\OneDrive\Documents\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\regan\OneDrive\Documents\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\regan\OneDrive\Documents\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\regan\OneDrive\Documents\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
